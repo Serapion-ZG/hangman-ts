@@ -1,184 +1,184 @@
 {
   "highscores": [
-  {
-    "id": 0,
-    "quoteId": "GcWOk8pTEf",
-    "length": 71,
-    "username": "Eddard",
-    "uniqueCharacters": 18,
-    "errors": 9,
-    "duration": 74328
-  },
-  {
-    "id": 1,
-    "quoteId": "s1JjbV959Vi",
-    "length": 133,
-    "username": "Robert",
-    "uniqueCharacters": 18,
-    "errors": 12,
-    "duration": 50782
-  },
-  {
-    "id": 2,
-    "quoteId": "22bmCfi_RKD9",
-    "length": 90,
-    "username": "Jamie",
-    "uniqueCharacters": 19,
-    "errors": 5,
-    "duration": 113095
-  },
-  {
-    "id": 3,
-    "quoteId": "j7esy7a9tvwi",
-    "length": 93,
-    "username": "Catelyn",
-    "uniqueCharacters": 22,
-    "errors": 7,
-    "duration": 110336
-  },
-  {
-    "id": 4,
-    "quoteId": "qgMKRwMNcB9G",
-    "length": 44,
-    "username": "Cersei",
-    "uniqueCharacters": 16,
-    "errors": 15,
-    "duration": 178149
-  },
-  {
-    "id": 5,
-    "quoteId": "TvwuG9MG0CQ",
-    "length": 82,
-    "username": "Daenerys",
-    "uniqueCharacters": 19,
-    "errors": 3,
-    "duration": 283419
-  },
-  {
-    "id": 6,
-    "quoteId": "Bg0GobDyVYuP",
-    "length": 71,
-    "username": "Jorah",
-    "uniqueCharacters": 15,
-    "errors": 15,
-    "duration": 275350
-  },
-  {
-    "id": 7,
-    "quoteId": "XNeFvcA985pC",
-    "length": 92,
-    "username": "Viserys",
-    "uniqueCharacters": 19,
-    "errors": 9,
-    "duration": 144791
-  },
-  {
-    "id": 8,
-    "quoteId": "4y3iRzObjqK1",
-    "length": 107,
-    "username": "Jon",
-    "uniqueCharacters": 21,
-    "errors": 18,
-    "duration": 225673
-  },
-  {
-    "id": 9,
-    "quoteId": "uSGo8Fn65z",
-    "length": 114,
-    "username": "Robb",
-    "uniqueCharacters": 20,
-    "errors": 18,
-    "duration": 133238
-  },
-  {
-    "id": 10,
-    "quoteId": "hSxHK-iwap5",
-    "length": 57,
-    "username": "x",
-    "uniqueCharacters": 20,
-    "errors": 15,
-    "duration": 92267
-  },
-  {
-    "id": 11,
-    "quoteId": "D_S3tmLBb8",
-    "length": 116,
-    "username": "Sansa",
-    "uniqueCharacters": 18,
-    "errors": 1,
-    "duration": 286519
-  },
-  {
-    "id": 12,
-    "quoteId": "YRWT98QBEC",
-    "length": 39,
-    "username": "Arya",
-    "uniqueCharacters": 17,
-    "errors": 16,
-    "duration": 58424
-  },
-  {
-    "id": 13,
-    "quoteId": "Px4iWP-ghc",
-    "length": 62,
-    "username": "Theon",
-    "uniqueCharacters": 17,
-    "errors": 7,
-    "duration": 159626
-  },
-  {
-    "id": 14,
-    "quoteId": "Mv26be7c-4_i",
-    "length": 93,
-    "username": "Brandon",
-    "uniqueCharacters": 18,
-    "errors": 4,
-    "duration": 159028
-  },
-  {
-    "id": 15,
-    "quoteId": "KziYFsZxdD",
-    "length": 232,
-    "username": "Joffrey",
-    "uniqueCharacters": 20,
-    "errors": 1,
-    "duration": 180053
-  },
-  {
-    "id": 16,
-    "quoteId": "w4QwG7e8hNr7",
-    "length": 77,
-    "username": "Sandor",
-    "uniqueCharacters": 19,
-    "errors": 16,
-    "duration": 111171
-  },
-  {
-    "id": 17,
-    "quoteId": "Q0hB1uuHka",
-    "length": 129,
-    "username": "Tyrion",
-    "uniqueCharacters": 20,
-    "errors": 3,
-    "duration": 216913
-  },
-  {
-    "id": 18,
-    "quoteId": "lwq03Qdk0cUN",
-    "length": 123,
-    "username": "Petyr",
-    "uniqueCharacters": 23,
-    "errors": 13,
-    "duration": 182074
-  },
-  {
-    "id": 19,
-    "quoteId": "8OBH14kq2G",
-    "length": 128,
-    "username": "Tywin",
-    "uniqueCharacters": 19,
-    "errors": 8,
-    "duration": 160949
-  }
+    {
+      "id": 0,
+      "quoteId": "GcWOk8pTEf",
+      "length": 71,
+      "username": "Eddard",
+      "uniqueCharacters": 18,
+      "errors": 9,
+      "duration": 74328
+    },
+    {
+      "id": 1,
+      "quoteId": "s1JjbV959Vi",
+      "length": 133,
+      "username": "Robert",
+      "uniqueCharacters": 18,
+      "errors": 12,
+      "duration": 50782
+    },
+    {
+      "id": 2,
+      "quoteId": "22bmCfi_RKD9",
+      "length": 90,
+      "username": "Jamie",
+      "uniqueCharacters": 19,
+      "errors": 5,
+      "duration": 113095
+    },
+    {
+      "id": 3,
+      "quoteId": "j7esy7a9tvwi",
+      "length": 93,
+      "username": "Catelyn",
+      "uniqueCharacters": 22,
+      "errors": 7,
+      "duration": 110336
+    },
+    {
+      "id": 4,
+      "quoteId": "qgMKRwMNcB9G",
+      "length": 44,
+      "username": "Cersei",
+      "uniqueCharacters": 16,
+      "errors": 15,
+      "duration": 178149
+    },
+    {
+      "id": 5,
+      "quoteId": "TvwuG9MG0CQ",
+      "length": 82,
+      "username": "Daenerys",
+      "uniqueCharacters": 19,
+      "errors": 3,
+      "duration": 283419
+    },
+    {
+      "id": 6,
+      "quoteId": "Bg0GobDyVYuP",
+      "length": 71,
+      "username": "Jorah",
+      "uniqueCharacters": 15,
+      "errors": 15,
+      "duration": 275350
+    },
+    {
+      "id": 7,
+      "quoteId": "XNeFvcA985pC",
+      "length": 92,
+      "username": "Viserys",
+      "uniqueCharacters": 19,
+      "errors": 9,
+      "duration": 144791
+    },
+    {
+      "id": 8,
+      "quoteId": "4y3iRzObjqK1",
+      "length": 107,
+      "username": "Jon",
+      "uniqueCharacters": 21,
+      "errors": 18,
+      "duration": 225673
+    },
+    {
+      "id": 9,
+      "quoteId": "uSGo8Fn65z",
+      "length": 114,
+      "username": "Robb",
+      "uniqueCharacters": 20,
+      "errors": 18,
+      "duration": 133238
+    },
+    {
+      "id": 10,
+      "quoteId": "hSxHK-iwap5",
+      "length": 57,
+      "username": "x",
+      "uniqueCharacters": 20,
+      "errors": 15,
+      "duration": 92267
+    },
+    {
+      "id": 11,
+      "quoteId": "D_S3tmLBb8",
+      "length": 116,
+      "username": "Sansa",
+      "uniqueCharacters": 18,
+      "errors": 1,
+      "duration": 286519
+    },
+    {
+      "id": 12,
+      "quoteId": "YRWT98QBEC",
+      "length": 39,
+      "username": "Arya",
+      "uniqueCharacters": 17,
+      "errors": 16,
+      "duration": 58424
+    },
+    {
+      "id": 13,
+      "quoteId": "Px4iWP-ghc",
+      "length": 62,
+      "username": "Theon",
+      "uniqueCharacters": 17,
+      "errors": 7,
+      "duration": 159626
+    },
+    {
+      "id": 14,
+      "quoteId": "Mv26be7c-4_i",
+      "length": 93,
+      "username": "Brandon",
+      "uniqueCharacters": 18,
+      "errors": 4,
+      "duration": 159028
+    },
+    {
+      "id": 15,
+      "quoteId": "KziYFsZxdD",
+      "length": 232,
+      "username": "Joffrey",
+      "uniqueCharacters": 20,
+      "errors": 1,
+      "duration": 180053
+    },
+    {
+      "id": 16,
+      "quoteId": "w4QwG7e8hNr7",
+      "length": 77,
+      "username": "Sandor",
+      "uniqueCharacters": 19,
+      "errors": 16,
+      "duration": 111171
+    },
+    {
+      "id": 17,
+      "quoteId": "Q0hB1uuHka",
+      "length": 129,
+      "username": "Tyrion",
+      "uniqueCharacters": 20,
+      "errors": 3,
+      "duration": 216913
+    },
+    {
+      "id": 18,
+      "quoteId": "lwq03Qdk0cUN",
+      "length": 123,
+      "username": "Petyr",
+      "uniqueCharacters": 23,
+      "errors": 13,
+      "duration": 182074
+    },
+    {
+      "id": 19,
+      "quoteId": "8OBH14kq2G",
+      "length": 128,
+      "username": "Tywin",
+      "uniqueCharacters": 19,
+      "errors": 8,
+      "duration": 160949
+    }
   ]
 }
