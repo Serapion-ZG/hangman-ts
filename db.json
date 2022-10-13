@@ -1,12 +1,13 @@
 {
   "highscores": [
     {
-      "id": 0,
+      "id": 16,
       "quoteId": "w4QwG7e8hNr7",
-      "length": 54,
-      "uniqueCharacters": 17,
-      "userName": "Sandor",
-      "errors": 2,
-      "duration": 65956
-    }]
+      "length": 77,
+      "username": "Sandor",
+      "uniqueCharacters": 19,
+      "errors": 16,
+      "duration": 111171
+    }
+  ]
 }
